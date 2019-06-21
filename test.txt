@@ -4,3 +4,4 @@
 4、git add . 注意有个点，点代表所有的意思，这条命令是把当前所有修改或者新增的文件添加进git本机
 5、git commit -m "msg" msg表示你本次修改的内容是啥，用来标明备注
 6、git push origin master 是把当前的修改推送到git远程仓库
+7
